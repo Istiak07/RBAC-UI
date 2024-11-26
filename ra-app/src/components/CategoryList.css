@@ -1,0 +1,64 @@
+
+.category-list {
+    padding: 20px;
+    background-color: #f4f6f8;
+    border-radius: 8px;
+  }
+  
+  .category-datagrid {
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .category-datagrid .MuiDataGrid-columnHeader {
+    background-color: #2196f3;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .category-datagrid .MuiDataGrid-row:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .category-datagrid .MuiDataGrid-cell {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .category-id {
+    width: 5%;
+  }
+  
+  .category-name,
+  .category-email,
+  .category-status,
+  .category-permission {
+    width: 20%;
+  }
+  
+  @media (max-width: 768px) {
+    .category-datagrid {
+      font-size: 12px;
+    }
+  
+    .category-datagrid .MuiDataGrid-columnHeader {
+      font-size: 14px;
+    }
+  
+    .category-list {
+      padding: 10px;
+    }
+  
+    .category-datagrid .MuiDataGrid-cell {
+      padding: 10px;
+    }
+  
+    .category-datagrid .MuiDataGrid-columnHeaderTitle {
+      font-size: 14px;
+    }
+  }
+  

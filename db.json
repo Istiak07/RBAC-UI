@@ -1,0 +1,193 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "status": "Active",
+      "Permission": "R-W-D"
+    },
+    {
+      "id": 2,
+      "name": "Bob Brown",
+      "email": "bob@example.com",
+      "status": "Inactive",
+      "Permission": "R-W"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Doe",
+      "email": "charlie@example.com",
+      "status": "Active",
+      "Permission": "R"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana@example.com",
+      "status": "Inactive",
+      "Permission": "R-W"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "status": "Inactive",
+      "Permission": "R"
+    },
+    {
+      "id": 6,
+      "name": "Eve Adams",
+      "email": "eve@example.com",
+      "status": "Active",
+      "Permission": "W-D"
+    },
+    {
+      "id": 7,
+      "name": "Frank White",
+      "email": "frank@example.com",
+      "status": "Inactive",
+      "Permission": "R"
+    },
+    {
+      "id": 8,
+      "name": "Grace Hopper",
+      "email": "grace@example.com",
+      "status": "Active",
+      "Permission": "R-W"
+    },
+    {
+      "id": 9,
+      "name": "Hank Green",
+      "email": "hank@example.com",
+      "status": "Inactive",
+      "Permission": "R-W-D"
+    },
+    {
+      "id": 10,
+      "name": "Ivy Lane",
+      "email": "ivy@example.com",
+      "status": "Active",
+      "Permission": "R-D"
+    },
+    {
+      "id": 11,
+      "name": "Jack Black",
+      "email": "jack@example.com",
+      "status": "Inactive",
+      "Permission": "W"
+    },
+    {
+      "id": 12,
+      "name": "Kathy Green",
+      "email": "kathy@example.com",
+      "status": "Active",
+      "Permission": "R-W-D"
+    },
+    {
+      "id": 13,
+      "name": "Liam White",
+      "email": "liam@example.com",
+      "status": "Inactive",
+      "Permission": "R-W"
+    },
+    {
+      "id": 14,
+      "name": "Monica Gray",
+      "email": "monica@example.com",
+      "status": "Active",
+      "Permission": "R-D"
+    },
+    {
+      "id": 15,
+      "name": "Nina Blue",
+      "email": "nina@example.com",
+      "status": "Inactive",
+      "Permission": "W-D"
+    },
+    {
+      "id": 16,
+      "name": "Oscar King",
+      "email": "oscar@example.com",
+      "status": "Active",
+      "Permission": "R-W"
+    },
+    {
+      "id": 17,
+      "name": "Paul Gray",
+      "email": "paul@example.com",
+      "status": "Inactive",
+      "Permission": "R"
+    },
+    {
+      "name": "Mr. Quincy Knight",
+      "email": "quincy@example.com",
+      "status": "Inactive",
+      "Permission": "R",
+      "id": 18
+    },
+    {
+      "id": 19,
+      "name": "Rachel White",
+      "email": "rachel@example.com",
+      "status": "Inactive",
+      "Permission": "R"
+    },
+    {
+      "id": 20,
+      "name": "Steve Blue",
+      "email": "steve@example.com",
+      "status": "Active",
+      "Permission": "W-D"
+    },
+    {
+      "id": 21,
+      "name": "Tina Red",
+      "email": "tina@example.com",
+      "status": "Inactive",
+      "Permission": "R-W"
+    },
+    {
+      "id": 22,
+      "name": "Ursula Gray",
+      "email": "ursula@example.com",
+      "status": "Active",
+      "Permission": "R-D"
+    },
+    {
+      "id": 23,
+      "name": "Victor Black",
+      "email": "victor@example.com",
+      "status": "Inactive",
+      "Permission": "W"
+    },
+    {
+      "id": 24,
+      "name": "Wendy Green",
+      "email": "wendy@example.com",
+      "status": "Active",
+      "Permission": "R-W-D"
+    },
+    {
+      "id": 25,
+      "name": "Xander White",
+      "email": "xander@example.com",
+      "status": "Inactive",
+      "Permission": "R-W"
+    },
+    {
+      "name": "Istiak",
+      "email": "istiak@examplel.com",
+      "status": "Active",
+      "Permission": "R-W-D",
+      "id": 26
+    },
+    {
+      "name": "John Doe",
+      "email": "doe@example.com",
+      "status": "Inactive",
+      "Permission": "R-W",
+      "id": 27
+    }
+  ]
+}
